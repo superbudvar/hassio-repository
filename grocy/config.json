@@ -30,7 +30,7 @@
   },
   "options": {
     "culture": "en",
-    "currency": "USD",
+    "currency": "GBP",
     "features": {
       "batteries": true,
       "calendar": true,
